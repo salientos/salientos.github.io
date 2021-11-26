@@ -1,0 +1,12 @@
+title: Salient OS
+description: An Arch Linux Distribution for Creatives Everywhere :)
+url: "https://salientos.github.io"
+username: Salient OS
+user_description: Salient OS is a rolling-release distribution aimed at Creative Multi-Media and Gaming Enthusiasts.
+user_title: An Arch Linux Operating System
+email: d3signr@gmail.com
+github_username:  salientos
+show_downloads: true
+google_analytics:
+exclude: ['package.json', 'src' , 'node_modules']
+theme: jekyll-theme-hacker
