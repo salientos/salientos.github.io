@@ -8,5 +8,5 @@ email: d3signr@gmail.com
 github_username:  salientos
 show_downloads: true
 google_analytics:
-exclude: ['package.json', 'src' , 'node_modules', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+exclude: ['package.json', 'src' , 'node_modules']
 theme: jekyll-theme-hacker
